@@ -1,14 +1,14 @@
-### ⚡Aspiring Python developer⚡
+### ⚡Hello World!!!⚡
 
 <div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-W8&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-W8&layout=compact&langs_count=16&theme=dark"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-W8&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" alt="coding-time" src="meruem.gif">
 </div>
 <br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="meruem.gif">
+    <img align="left" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-W8&layout=compact&langs_count=16&theme=radical"/>
     <h1 align="center">Tecnologias aplicadas </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
@@ -30,5 +30,3 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-  
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
