@@ -10,7 +10,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-W8&layout=compact&langs_count=16&theme=radical"/>
     <h1 align="center">Tecnologias aplicadas </h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
     <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
