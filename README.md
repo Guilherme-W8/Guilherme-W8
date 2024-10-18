@@ -1,6 +1,8 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Guilherme-W8/5a55156ae3d5a42ddb317c1d6267be89/raw/bf794639c38f4af414577254e892c8c69087064c/dragondisciplinecard.svg"/>
 <h3 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Guilherme Correia</h3>
 
+<br>
+
 - ⚡ Aspiring back-end developer
 
 - 🎯 Currently I'm learning Node.js and Java Spring Boot
@@ -14,6 +16,8 @@
 - 🛠️ Consistency and Discipline
 
 <!-- - 👨‍💻 More at -->
+
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 
