@@ -4,7 +4,7 @@
 
 - ⚡ Aspiring back-end developer
 
-- 🎯 Currently I'm learning Node.js and C# with .NET
+- 🎯 Currently I'm learning Node.js and Java with Spring Framework
   
 - 👨🏽‍🎓 I'm a student at FATEC Praia Grande: Systems Analysis and Development
 
